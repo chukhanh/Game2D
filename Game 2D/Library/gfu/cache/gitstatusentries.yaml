@@ -1,0 +1,1212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-07-16T14:42:34.185+07:00
+  initializedAtString: 2021-07-16T14:42:34.185+07:00
+  entries:
+  - path: Game 2D/.vsconfig
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/.vsconfig
+    projectPath: .vsconfig
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins.meta
+    projectPath: Assets/Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub.meta
+    projectPath: Assets/Plugins/GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor.meta
+    projectPath: Assets/Plugins/GitHub/Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/credits.txt
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/credits.txt
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/eula.txt
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/eula.txt
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/libsfw.so
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/libsfw.so
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/x64.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/x64.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/x86.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/x86.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/APIUpdater/project-dependencies.graph
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/APIUpdater/project-dependencies.graph
+    projectPath: Library/APIUpdater/project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game 2D/Library/ArtifactDB
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game 2D/Library/Artifacts/03/031e93fc0904d1bf6e77e3af3af1e78d
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/03/031e93fc0904d1bf6e77e3af3af1e78d
+    projectPath: Library/Artifacts/03/031e93fc0904d1bf6e77e3af3af1e78d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/07/07a653c522a72cc1b0f696d0b7576cc3
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/07/07a653c522a72cc1b0f696d0b7576cc3
+    projectPath: Library/Artifacts/07/07a653c522a72cc1b0f696d0b7576cc3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/08/0866fd617a94ebc94e3e03db376f9683
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/08/0866fd617a94ebc94e3e03db376f9683
+    projectPath: Library/Artifacts/08/0866fd617a94ebc94e3e03db376f9683
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game 2D/Library/Artifacts/1f/1fe54318fe85aeab159f1a8b425c1aa5
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/1f/1fe54318fe85aeab159f1a8b425c1aa5
+    projectPath: Library/Artifacts/1f/1fe54318fe85aeab159f1a8b425c1aa5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/3f/3fde39a0ac32981cd308c39f571c105a
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/3f/3fde39a0ac32981cd308c39f571c105a
+    projectPath: Library/Artifacts/3f/3fde39a0ac32981cd308c39f571c105a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/60/60c5372f90cfb757cd63417347b21c54
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/60/60c5372f90cfb757cd63417347b21c54
+    projectPath: Library/Artifacts/60/60c5372f90cfb757cd63417347b21c54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/66/66c8bcda36225ba091464c8df68c12f5
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/66/66c8bcda36225ba091464c8df68c12f5
+    projectPath: Library/Artifacts/66/66c8bcda36225ba091464c8df68c12f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/6a/6aafca035d28e6248f98ea62fd174c91
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/6a/6aafca035d28e6248f98ea62fd174c91
+    projectPath: Library/Artifacts/6a/6aafca035d28e6248f98ea62fd174c91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/76/76b09290903b8c7da246ad69ed336ad2
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/76/76b09290903b8c7da246ad69ed336ad2
+    projectPath: Library/Artifacts/76/76b09290903b8c7da246ad69ed336ad2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/81/811b9d40864c13f57f0b0ea9c714d5dc
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/81/811b9d40864c13f57f0b0ea9c714d5dc
+    projectPath: Library/Artifacts/81/811b9d40864c13f57f0b0ea9c714d5dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/82/82108f944ceb23fd0c375157bae96a18
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/82/82108f944ceb23fd0c375157bae96a18
+    projectPath: Library/Artifacts/82/82108f944ceb23fd0c375157bae96a18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/8c/8c13f6844f9061ca584afae262000a65
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/8c/8c13f6844f9061ca584afae262000a65
+    projectPath: Library/Artifacts/8c/8c13f6844f9061ca584afae262000a65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/9a/9af957f233545a7c5e42c8eace3a5136
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/9a/9af957f233545a7c5e42c8eace3a5136
+    projectPath: Library/Artifacts/9a/9af957f233545a7c5e42c8eace3a5136
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/b7/b70547605645b0fef1fe4d2cc1f0c8a1
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/b7/b70547605645b0fef1fe4d2cc1f0c8a1
+    projectPath: Library/Artifacts/b7/b70547605645b0fef1fe4d2cc1f0c8a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/bc/bc23fa14b62ef80f1a7d7c84756c63ce
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/bc/bc23fa14b62ef80f1a7d7c84756c63ce
+    projectPath: Library/Artifacts/bc/bc23fa14b62ef80f1a7d7c84756c63ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/bd/bd3b3e5efd1936c5316dab4dc453bbb0
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/bd/bd3b3e5efd1936c5316dab4dc453bbb0
+    projectPath: Library/Artifacts/bd/bd3b3e5efd1936c5316dab4dc453bbb0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/c9/c9f91a9a80efbe1057c3863d6ce1725a
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/c9/c9f91a9a80efbe1057c3863d6ce1725a
+    projectPath: Library/Artifacts/c9/c9f91a9a80efbe1057c3863d6ce1725a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/cc/cc26ce7c9a970c0428eef69a9913832f
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/cc/cc26ce7c9a970c0428eef69a9913832f
+    projectPath: Library/Artifacts/cc/cc26ce7c9a970c0428eef69a9913832f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/d1/d186fa40ae65a4021967bd50673a4f35
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/d1/d186fa40ae65a4021967bd50673a4f35
+    projectPath: Library/Artifacts/d1/d186fa40ae65a4021967bd50673a4f35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/d4/d4fb3aa8cbd333f813d6376b2be87c5a
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/d4/d4fb3aa8cbd333f813d6376b2be87c5a
+    projectPath: Library/Artifacts/d4/d4fb3aa8cbd333f813d6376b2be87c5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/e0/e0b88e15d747efc77a6237a7e1877d01
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/e0/e0b88e15d747efc77a6237a7e1877d01
+    projectPath: Library/Artifacts/e0/e0b88e15d747efc77a6237a7e1877d01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/e9/e975c2f2a24dc22097accd8bafca38fe
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/e9/e975c2f2a24dc22097accd8bafca38fe
+    projectPath: Library/Artifacts/e9/e975c2f2a24dc22097accd8bafca38fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/f7/f7c624b7f6628a51fb05fa63e123b6d6
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/f7/f7c624b7f6628a51fb05fa63e123b6d6
+    projectPath: Library/Artifacts/f7/f7c624b7f6628a51fb05fa63e123b6d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/fa/faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/fa/faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    projectPath: Library/Artifacts/fa/faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/Artifacts/ff/ffd8914e0ccda982a0c31023555f979d
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/Artifacts/ff/ffd8914e0ccda982a0c31023555f979d
+    projectPath: Library/Artifacts/ff/ffd8914e0ccda982a0c31023555f979d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/CurrentLayout-default.dwlt
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game 2D/Library/EditorInstance.json
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/SceneVisibilityState.asset
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game 2D/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Library/SourceAssetDB
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game 2D/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game 2D/Logs/AssetImportWorker0-prev.log
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Logs/AssetImportWorker0-prev.log
+    projectPath: Logs/AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Game 2D/ProjectSettings/ProjectSettings.asset
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/ProjectSettings/ProjectSettings.asset
+    projectPath: ProjectSettings/ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Game 2D/Temp/Assembly-CSharp.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Assembly-CSharp.dll.hash
+    projectPath: Temp/Assembly-CSharp.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/CompilationLog.txt
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/CompilationLog.txt
+    projectPath: Temp/CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/PsdPlugin.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/PsdPlugin.dll.hash
+    projectPath: Temp/PsdPlugin.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.2D.Animation.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.2D.Animation.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Animation.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.2D.Animation.Runtime.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.2D.Animation.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.Animation.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.2D.Common.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.2D.Common.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Common.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.2D.Common.Runtime.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.2D.Common.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.Common.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.2D.IK.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.2D.IK.Editor.dll.hash
+    projectPath: Temp/Unity.2D.IK.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.2D.IK.Runtime.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.2D.IK.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.IK.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.2D.Path.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.2D.Path.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Path.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.2D.PixelPerfect.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.2D.PixelPerfect.dll.hash
+    projectPath: Temp/Unity.2D.PixelPerfect.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+    projectPath: Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.2D.Psdimporter.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.2D.Psdimporter.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Psdimporter.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.2D.Sprite.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.2D.Sprite.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Sprite.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.2D.SpriteShape.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.2D.SpriteShape.Editor.dll.hash
+    projectPath: Temp/Unity.2D.SpriteShape.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.2D.Tilemap.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.2D.Tilemap.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Tilemap.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.CollabProxy.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp/Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+    projectPath: Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+    projectPath: Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.Mathematics.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.Mathematics.dll.hash
+    projectPath: Temp/Unity.Mathematics.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.Mathematics.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.Mathematics.Editor.dll.hash
+    projectPath: Temp/Unity.Mathematics.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.PlasticSCM.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.PlasticSCM.Editor.dll.hash
+    projectPath: Temp/Unity.PlasticSCM.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.Rider.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.Rider.Editor.dll.hash
+    projectPath: Temp/Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.TextMeshPro.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.TextMeshPro.dll.hash
+    projectPath: Temp/Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.TextMeshPro.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp/Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.Timeline.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.Timeline.dll.hash
+    projectPath: Temp/Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.Timeline.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.Timeline.Editor.dll.hash
+    projectPath: Temp/Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.VisualStudio.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp/Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/Unity.VSCode.Editor.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/Unity.VSCode.Editor.dll.hash
+    projectPath: Temp/Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityEditor.TestRunner.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityEditor.TestRunner.dll.hash
+    projectPath: Temp/UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityEditor.UI.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityEditor.UI.dll.hash
+    projectPath: Temp/UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityEngine.TestRunner.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityEngine.TestRunner.dll.hash
+    projectPath: Temp/UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityEngine.UI.dll.hash
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityEngine.UI.dll.hash
+    projectPath: Temp/UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityLockfile
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityLockfile
+    projectPath: Temp/UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-084cf183699da42b4acd523a31f49ef9
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-084cf183699da42b4acd523a31f49ef9
+    projectPath: Temp/UnityTempFile-084cf183699da42b4acd523a31f49ef9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-090e3bf85f97d4eb68d33dd032cfea3a
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-090e3bf85f97d4eb68d33dd032cfea3a
+    projectPath: Temp/UnityTempFile-090e3bf85f97d4eb68d33dd032cfea3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-0a3a69fd228234b80999c68030b609c8
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-0a3a69fd228234b80999c68030b609c8
+    projectPath: Temp/UnityTempFile-0a3a69fd228234b80999c68030b609c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-0b624fadc87a447ab88ef26c3ca7814d
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-0b624fadc87a447ab88ef26c3ca7814d
+    projectPath: Temp/UnityTempFile-0b624fadc87a447ab88ef26c3ca7814d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-10cd7c908899e41aeb24e65f918eebc6
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-10cd7c908899e41aeb24e65f918eebc6
+    projectPath: Temp/UnityTempFile-10cd7c908899e41aeb24e65f918eebc6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-12c746b2d528f41e99ec8553957580ef
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-12c746b2d528f41e99ec8553957580ef
+    projectPath: Temp/UnityTempFile-12c746b2d528f41e99ec8553957580ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-152dde210e0674f8eb04504ad4a96bdb
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-152dde210e0674f8eb04504ad4a96bdb
+    projectPath: Temp/UnityTempFile-152dde210e0674f8eb04504ad4a96bdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-193fcb30875ef4ebd9c06bf5989de5c3
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-193fcb30875ef4ebd9c06bf5989de5c3
+    projectPath: Temp/UnityTempFile-193fcb30875ef4ebd9c06bf5989de5c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-1e8a59be30a6449c3a359568739d96a2
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-1e8a59be30a6449c3a359568739d96a2
+    projectPath: Temp/UnityTempFile-1e8a59be30a6449c3a359568739d96a2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-25f6e38bf775542e19983333906670fa
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-25f6e38bf775542e19983333906670fa
+    projectPath: Temp/UnityTempFile-25f6e38bf775542e19983333906670fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-2762ce7970ad54af587e6bfba7baf71a
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-2762ce7970ad54af587e6bfba7baf71a
+    projectPath: Temp/UnityTempFile-2762ce7970ad54af587e6bfba7baf71a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-2869355f50a55497c9455204674da680
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-2869355f50a55497c9455204674da680
+    projectPath: Temp/UnityTempFile-2869355f50a55497c9455204674da680
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-296ddc3c26ef646ba90214b54c0c36d3
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-296ddc3c26ef646ba90214b54c0c36d3
+    projectPath: Temp/UnityTempFile-296ddc3c26ef646ba90214b54c0c36d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-2c065593e7c3d4a908228e0aa6255025
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-2c065593e7c3d4a908228e0aa6255025
+    projectPath: Temp/UnityTempFile-2c065593e7c3d4a908228e0aa6255025
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-31fdb4ceb77414d8db6f7d938f8ebb0f
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-31fdb4ceb77414d8db6f7d938f8ebb0f
+    projectPath: Temp/UnityTempFile-31fdb4ceb77414d8db6f7d938f8ebb0f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-3242427c990404f64b9200552f53bb1e
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-3242427c990404f64b9200552f53bb1e
+    projectPath: Temp/UnityTempFile-3242427c990404f64b9200552f53bb1e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-35f231b16a5974cacaa4b7a5484bea04
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-35f231b16a5974cacaa4b7a5484bea04
+    projectPath: Temp/UnityTempFile-35f231b16a5974cacaa4b7a5484bea04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-3627382f739c4460e9d9a1677b7d9eee
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-3627382f739c4460e9d9a1677b7d9eee
+    projectPath: Temp/UnityTempFile-3627382f739c4460e9d9a1677b7d9eee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-389fd466803684f66b4a0b72e7089606
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-389fd466803684f66b4a0b72e7089606
+    projectPath: Temp/UnityTempFile-389fd466803684f66b4a0b72e7089606
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-39946191315f4499e8ef00f714fac84b
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-39946191315f4499e8ef00f714fac84b
+    projectPath: Temp/UnityTempFile-39946191315f4499e8ef00f714fac84b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-39f20bbab012744888aa49d230800126
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-39f20bbab012744888aa49d230800126
+    projectPath: Temp/UnityTempFile-39f20bbab012744888aa49d230800126
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-3bda67d48b0f64893912457e2f23844a
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-3bda67d48b0f64893912457e2f23844a
+    projectPath: Temp/UnityTempFile-3bda67d48b0f64893912457e2f23844a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-3d4967e3b1bb24fc0a3244590d9a504c
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-3d4967e3b1bb24fc0a3244590d9a504c
+    projectPath: Temp/UnityTempFile-3d4967e3b1bb24fc0a3244590d9a504c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-3d8fc80907ecd4f5d8944be94eed7f0f
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-3d8fc80907ecd4f5d8944be94eed7f0f
+    projectPath: Temp/UnityTempFile-3d8fc80907ecd4f5d8944be94eed7f0f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-40755d596889b420f829d81666d088e8
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-40755d596889b420f829d81666d088e8
+    projectPath: Temp/UnityTempFile-40755d596889b420f829d81666d088e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-40b8fd345e3f14abd930e4ad93df01e8
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-40b8fd345e3f14abd930e4ad93df01e8
+    projectPath: Temp/UnityTempFile-40b8fd345e3f14abd930e4ad93df01e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-41c8f6278b918452aa2f7a146831cbc5
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-41c8f6278b918452aa2f7a146831cbc5
+    projectPath: Temp/UnityTempFile-41c8f6278b918452aa2f7a146831cbc5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-4215034054df84145892e211ed01fd3f
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-4215034054df84145892e211ed01fd3f
+    projectPath: Temp/UnityTempFile-4215034054df84145892e211ed01fd3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-4682b4e2922d441dda5d3e451af4f14f
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-4682b4e2922d441dda5d3e451af4f14f
+    projectPath: Temp/UnityTempFile-4682b4e2922d441dda5d3e451af4f14f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-470f63bbd91844a2ab77ddd86a9ba42f
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-470f63bbd91844a2ab77ddd86a9ba42f
+    projectPath: Temp/UnityTempFile-470f63bbd91844a2ab77ddd86a9ba42f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-49effdb78d46a45ea9132414f990b691
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-49effdb78d46a45ea9132414f990b691
+    projectPath: Temp/UnityTempFile-49effdb78d46a45ea9132414f990b691
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-4c41640720a7346bab7dd9dcc54efdca
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-4c41640720a7346bab7dd9dcc54efdca
+    projectPath: Temp/UnityTempFile-4c41640720a7346bab7dd9dcc54efdca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-4f22acb466b0441699f7409cfbcbf1ab
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-4f22acb466b0441699f7409cfbcbf1ab
+    projectPath: Temp/UnityTempFile-4f22acb466b0441699f7409cfbcbf1ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-516969b0d740e4861ae8feb15abc178d
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-516969b0d740e4861ae8feb15abc178d
+    projectPath: Temp/UnityTempFile-516969b0d740e4861ae8feb15abc178d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-58bce687cea3d4e2aa72f61272a9e72e
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-58bce687cea3d4e2aa72f61272a9e72e
+    projectPath: Temp/UnityTempFile-58bce687cea3d4e2aa72f61272a9e72e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-697f6523305ca4f29a899357a98b02d6
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-697f6523305ca4f29a899357a98b02d6
+    projectPath: Temp/UnityTempFile-697f6523305ca4f29a899357a98b02d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-6e7e5ad6394ed4060aa6cd24be80dff1
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-6e7e5ad6394ed4060aa6cd24be80dff1
+    projectPath: Temp/UnityTempFile-6e7e5ad6394ed4060aa6cd24be80dff1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-73c37d1f8bee742bf95ef7c4bd2d7ea7
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-73c37d1f8bee742bf95ef7c4bd2d7ea7
+    projectPath: Temp/UnityTempFile-73c37d1f8bee742bf95ef7c4bd2d7ea7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-762412c87046246929eac952bb0299a2
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-762412c87046246929eac952bb0299a2
+    projectPath: Temp/UnityTempFile-762412c87046246929eac952bb0299a2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-77aff81ec2d70421289c2b378521614a
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-77aff81ec2d70421289c2b378521614a
+    projectPath: Temp/UnityTempFile-77aff81ec2d70421289c2b378521614a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-7db5e29ed76934cafb5fdb294aec7d38
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-7db5e29ed76934cafb5fdb294aec7d38
+    projectPath: Temp/UnityTempFile-7db5e29ed76934cafb5fdb294aec7d38
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-8112fc73e7de7478d97c353a8d9e7d3e
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-8112fc73e7de7478d97c353a8d9e7d3e
+    projectPath: Temp/UnityTempFile-8112fc73e7de7478d97c353a8d9e7d3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-87f113c6563c7471e9ab43101cc31d75
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-87f113c6563c7471e9ab43101cc31d75
+    projectPath: Temp/UnityTempFile-87f113c6563c7471e9ab43101cc31d75
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-8fa34cf75258b46bca518beb3fcd5112
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-8fa34cf75258b46bca518beb3fcd5112
+    projectPath: Temp/UnityTempFile-8fa34cf75258b46bca518beb3fcd5112
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-9162ebf90bc4441b590bd7803699ef68
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-9162ebf90bc4441b590bd7803699ef68
+    projectPath: Temp/UnityTempFile-9162ebf90bc4441b590bd7803699ef68
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-92aa68ed98a854c668fe40db8835666b
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-92aa68ed98a854c668fe40db8835666b
+    projectPath: Temp/UnityTempFile-92aa68ed98a854c668fe40db8835666b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-96d5cc1d745424d6e9b05417120cf576
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-96d5cc1d745424d6e9b05417120cf576
+    projectPath: Temp/UnityTempFile-96d5cc1d745424d6e9b05417120cf576
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-97d7bcc08d10c47cd85bef452a65b8cb
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-97d7bcc08d10c47cd85bef452a65b8cb
+    projectPath: Temp/UnityTempFile-97d7bcc08d10c47cd85bef452a65b8cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-9db76ee8e0f5043b2a183f97ddbb15f9
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-9db76ee8e0f5043b2a183f97ddbb15f9
+    projectPath: Temp/UnityTempFile-9db76ee8e0f5043b2a183f97ddbb15f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-9de669989d49b4907832086b6b0163fa
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-9de669989d49b4907832086b6b0163fa
+    projectPath: Temp/UnityTempFile-9de669989d49b4907832086b6b0163fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-a627d879e01044023bf6cb6bf8ac19b0
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-a627d879e01044023bf6cb6bf8ac19b0
+    projectPath: Temp/UnityTempFile-a627d879e01044023bf6cb6bf8ac19b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-a8469cd97944747f897d94690fc917d7
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-a8469cd97944747f897d94690fc917d7
+    projectPath: Temp/UnityTempFile-a8469cd97944747f897d94690fc917d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-aa3f912e207e3459698a5a34a2bb10bd
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-aa3f912e207e3459698a5a34a2bb10bd
+    projectPath: Temp/UnityTempFile-aa3f912e207e3459698a5a34a2bb10bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-ac464d8edd6754725b586c83eeaa3f4d
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-ac464d8edd6754725b586c83eeaa3f4d
+    projectPath: Temp/UnityTempFile-ac464d8edd6754725b586c83eeaa3f4d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-ac64ad197f39447b08c9e18bb679a69b
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-ac64ad197f39447b08c9e18bb679a69b
+    projectPath: Temp/UnityTempFile-ac64ad197f39447b08c9e18bb679a69b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-adc02bd647d2245a28e66cc51f53aaaa
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-adc02bd647d2245a28e66cc51f53aaaa
+    projectPath: Temp/UnityTempFile-adc02bd647d2245a28e66cc51f53aaaa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-aebd1dd7af72440d283b6d97cb1719b1
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-aebd1dd7af72440d283b6d97cb1719b1
+    projectPath: Temp/UnityTempFile-aebd1dd7af72440d283b6d97cb1719b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-b410c5dfcaec34c398239c3dab06638d
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-b410c5dfcaec34c398239c3dab06638d
+    projectPath: Temp/UnityTempFile-b410c5dfcaec34c398239c3dab06638d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-b53959c5e4fb942b181a511bf7376106
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-b53959c5e4fb942b181a511bf7376106
+    projectPath: Temp/UnityTempFile-b53959c5e4fb942b181a511bf7376106
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-b8fd224a379b94d95881ddfcd10e27d4
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-b8fd224a379b94d95881ddfcd10e27d4
+    projectPath: Temp/UnityTempFile-b8fd224a379b94d95881ddfcd10e27d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-bdeccc28a39124139a00d0d57ab8c0b3
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-bdeccc28a39124139a00d0d57ab8c0b3
+    projectPath: Temp/UnityTempFile-bdeccc28a39124139a00d0d57ab8c0b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-da844e14d2dea4f6bb87e5b74d08912c
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-da844e14d2dea4f6bb87e5b74d08912c
+    projectPath: Temp/UnityTempFile-da844e14d2dea4f6bb87e5b74d08912c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-db0bcaad041494fda8e3ab2de6bf013a
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-db0bcaad041494fda8e3ab2de6bf013a
+    projectPath: Temp/UnityTempFile-db0bcaad041494fda8e3ab2de6bf013a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-db1db2cc925e14ac7b54583e6f583967
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-db1db2cc925e14ac7b54583e6f583967
+    projectPath: Temp/UnityTempFile-db1db2cc925e14ac7b54583e6f583967
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-df594a05084694c2ba17f9830dbce4e3
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-df594a05084694c2ba17f9830dbce4e3
+    projectPath: Temp/UnityTempFile-df594a05084694c2ba17f9830dbce4e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-e5134a7f6ce0f476080fca0f28a26598
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-e5134a7f6ce0f476080fca0f28a26598
+    projectPath: Temp/UnityTempFile-e5134a7f6ce0f476080fca0f28a26598
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-e6f133ae86d7748bf993b76d28e39856
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-e6f133ae86d7748bf993b76d28e39856
+    projectPath: Temp/UnityTempFile-e6f133ae86d7748bf993b76d28e39856
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-e9e018a59f9a84abfb01622f4ef45d55
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-e9e018a59f9a84abfb01622f4ef45d55
+    projectPath: Temp/UnityTempFile-e9e018a59f9a84abfb01622f4ef45d55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-f5a72552f1dac4267a31113f842b321e
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-f5a72552f1dac4267a31113f842b321e
+    projectPath: Temp/UnityTempFile-f5a72552f1dac4267a31113f842b321e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/UnityTempFile-f6f29bfe817074df8a4d72e9aa753b50
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/UnityTempFile-f6f29bfe817074df8a4d72e9aa753b50
+    projectPath: Temp/UnityTempFile-f6f29bfe817074df8a4d72e9aa753b50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Game 2D/Temp/workerlic
+    fullPath: /Users/chukhanhhh/Game2D/Game 2D/Temp/workerlic
+    projectPath: Temp/workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: README.md
+    fullPath: /Users/chukhanhhh/Game2D/README.md
+    projectPath: ../README.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
