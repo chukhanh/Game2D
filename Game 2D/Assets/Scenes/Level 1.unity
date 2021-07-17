@@ -76650,6 +76650,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 206662867359680259, guid: 5585b7dcc9ec12d4d81dc2ea9ef0d940, type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7224958672904081849, guid: 5585b7dcc9ec12d4d81dc2ea9ef0d940, type: 3}
       propertyPath: m_Name
       value: CheckPoint
@@ -76697,6 +76701,10 @@ PrefabInstance:
     - target: {fileID: 7224958672904081852, guid: 5585b7dcc9ec12d4d81dc2ea9ef0d940, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7224958672904081853, guid: 5585b7dcc9ec12d4d81dc2ea9ef0d940, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5585b7dcc9ec12d4d81dc2ea9ef0d940, type: 3}
